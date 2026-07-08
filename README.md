@@ -1,5 +1,5 @@
 # AWS Three-Tier Infrastructure Deployment with Terraform
-![Terraform Architecture] (screenshots/36-terraform-architecture-diagram.png)
+![Terraform Architecture](screenshots/36-terraform-architecture-diagram.png)
 
 ## Project Overview
 
